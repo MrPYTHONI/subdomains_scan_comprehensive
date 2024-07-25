@@ -11,7 +11,7 @@ tab A tool that searches for subdomains accurately and comprehensively. To updat
 
 # Usage
 
-`git cloen https://github.com/MrPYTHONI/subdomains_scan_comprehensive.git`
+`git cloen git clone git cloen https://github.com/MrPYTHONI/subdomains_scan_comprehensive.git`
 
 
 `cd subdomains_scan_comprehensive`
